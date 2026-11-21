@@ -128,3 +128,28 @@ h2 {
 .card p {
     text-align: center;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 100px 0;
+}
+
+.qtext {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.first {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.second {
+    font-weight: 700;
+    color: #1F2937;
+    align-self: flex-end;
+}
