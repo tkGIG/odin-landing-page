@@ -98,3 +98,33 @@ a {
   justify-content: center;
   align-items: center;
 }
+
+h2 {
+    text-align: center;
+    padding: 60px 0;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    margin-bottom: 24px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.card {
+    width: 150px;
+}
+
+.card img {
+    width: 150px;
+    height: 150px;
+    border: solid #3882F6 4px;
+    border-radius: 12px;
+}
+
+.card p {
+    text-align: center;
+}
